@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Programming Quotes Plugin
+ * Plugin Name: I ❤️️ Quotes Plugin
  * Description: A special plugin for developers who need some inspiration. With quotes.
  * Author: Nikhil Vimal
  * Author URI: http://nik.techvoltz.com

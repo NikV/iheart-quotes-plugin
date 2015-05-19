@@ -6,4 +6,4 @@ Currently includes:
 
 - WordPress Widget
 - Dashboard Widget 
-- Shortcode
+- Shortcode - [iheart_quotes]
